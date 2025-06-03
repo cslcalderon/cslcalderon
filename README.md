@@ -17,7 +17,15 @@ I also love working on public datasets and creating tools that make an impact ðŸ
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=cslcalderon&show_icons=true&theme=default" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=cslcalderon&show_icons=true&count_private=true&theme=default" /></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cslcalderon&layout=compact&theme=default" /></td>
   </tr>
 </table>
+
+### ðŸ›  Tech Stack
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+
