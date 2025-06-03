@@ -1,6 +1,6 @@
 # Hi, I'm Sofia – Welcome to my GitHub! 👋
 
-🎓 Computational Biology + Data Science student UT Austin graduate
+🎓 Computational Biology + Data Science UT Austin graduate
 💻 Passionate about using data to drive impact in health, equity, and science  
 📊 ML, NLP, Cloud Pipelines, and all things Python/R!
 
