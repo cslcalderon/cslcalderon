@@ -6,6 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sofia-calderon-982b491aa/)
 [![Email](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:cslcalderon@gmail.com)
+[![Website](https://img.shields.io/badge/Website-black?style=flat&logo=Google-Chrome&logoColor=white)](https://cslcalderon.github.io/)
+
 
 ---
 
