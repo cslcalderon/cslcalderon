@@ -1,7 +1,7 @@
 # Hi, I'm Sofia – Welcome to my GitHub! 👋
 
 🎓 Computational Biology + Data Science UT Austin graduate
-💻 Passionate about using data to drive impact in health, equity, and science  
+💻 Passionate about using data to drive impact   
 📊 ML, NLP, Cloud Pipelines, and all things Python/R!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sofia-calderon-982b491aa/)
