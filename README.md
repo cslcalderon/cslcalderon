@@ -2,7 +2,7 @@
 
 🎓 Computational Biology + Data Science UT Austin graduate
 💻 Passionate about using data to drive impact   
-📊 ML, NLP, Cloud Pipelines, and all things Python/R!
+📊 ML, NLP, Cloud Pipelines, and all things Python/R/SQL!
 🏥 Currently working as an Analyst at Curative in Austin!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sofia-calderon-982b491aa/)
