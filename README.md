@@ -18,8 +18,6 @@ I also love working on public datasets and creating tools that make an impact ðŸ
 ---
 ## ðŸ“Š Sofia's GitHub Overview
 
-![Sofia's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=cslcalderon)
-**
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cslcalderon)
 
 
