@@ -20,8 +20,10 @@ I also love working on public datasets and creating tools that make an impact ğŸ
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=cslcalderon&show_icons=true&count_private=true&theme=default" /></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cslcalderon&layout=compact&hide=html&theme=default" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=cslcalderon&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&v=1" />
+</td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cslcalderon&layout=compact&hide=html&hide_border=true&v=1" />
+</td>
   </tr>
 </table>
 
