@@ -16,8 +16,6 @@ My interests include data science and data engineering!
 I also love working on public datasets and creating tools that make an impact 🌎
 
 ---
-<h2>📊 Sofia's GitHub Overview</h2>
-
 ## 📊 Sofia's GitHub Overview
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cslcalderon&show_icons=true&include_all_commits=true&count_private=true)
