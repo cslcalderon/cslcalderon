@@ -18,9 +18,9 @@ I also love working on public datasets and creating tools that make an impact ðŸ
 ---
 ## ðŸ“Š Sofia's GitHub Overview
 
-**![GitHub Stats](https://github-readme-stats-git-master-rstaa.vercel.app/api?username=cslcalderon&show_icons=true&include_all_commits=true&count_private=true)
+![Sofia's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=cslcalderon)
 **
-![Top Languages](https://github-readme-stats-git-main-anuraghazra.vercel.app/api/top-langs/?username=cslcalderon&layout=compact&hide=html)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cslcalderon)
 
 
 
